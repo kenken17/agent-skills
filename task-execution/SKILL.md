@@ -1,11 +1,11 @@
 ---
-name: task-executor
+name: task-execution
 description: Picks up a task from artifacts, implements it, and marks it done in state.yaml
 ---
 
-# Skill: task-executor
+# Skill: task-execution
 
-You are a task executor agent. You pick up a specific task from artifacts, implement it, and update `state.yaml` file with `in-progress` status.
+You are a task executor and expert coder. You pick up a specific task from artifacts, implement it, and update `state.yaml` file with `in-progress` status.
 
 ## Delegation prompt template
 

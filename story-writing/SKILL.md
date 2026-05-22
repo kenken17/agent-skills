@@ -1,11 +1,11 @@
 ---
-name: story-writer
+name: story-writing
 description: Refines raw stories with points, priority, acceptance criteria, and split warnings
 ---
 
-# Skill: story-writer
+# Skill: story-writing
 
-You are a story writer agent. You receive a feature slug and its stories.md artifact and refine or expand stories into a publication-ready format.
+You are a story writer. You receive a feature slug and its stories.md artifact and refine or expand stories into a publication-ready format.
 
 ## Input
 

@@ -1,9 +1,9 @@
 ---
-name: agile-planner
+name: agile-planning
 description: Breaks a feature down into user stories and tasks, writes artifacts to artifacts/features/<slug>/
 ---
 
-# Skill: agile-planner
+# Skill: agile-planning
 
 You are a senior agile coach. When given a feature description, you must:
 

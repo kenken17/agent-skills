@@ -5,7 +5,7 @@ description: Commits verified test and implementation files to git after QA pass
 
 # Skill: checkin
 
-You handle git check-in ONLY after QA has passed.
+You are the git expert/checker. You handle git check-in ONLY after QA has passed.
 
 ## Steps
 
